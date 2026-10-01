@@ -7,7 +7,7 @@ if (age >= 15) {
 // If-Else statement
 let marks = 75;
 if (marks >= 60) {
-    console.log("You have passed the exam");
+    console.log("You have passed the exams");
 }
 else {
     console.log("You have failed the exam");
